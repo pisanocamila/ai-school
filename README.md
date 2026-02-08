@@ -8,26 +8,36 @@ Force of Nature × Growth Signal | February 2026
 
 ## The Problem
 
-Growth Signal has years of strategic knowledge spread across Notion workspaces, client reports, internal documents, and operational data. Business rules are applied intuitively. Quality standards live in people's heads. Cross-client patterns are invisible unless someone manually connects the dots.
+Right now, Growth Signal's quality depends on Susan being in the room. Business rules live in her head. Quality standards are applied when she reviews. Cross-client patterns exist only when she connects the dots manually.
 
-When the person who knows the rules isn't in the room, the rules don't get applied.
+That means Susan spends her time **operating** — reviewing, correcting, checking — instead of doing what only she can do: thinking about the future, designing new products, building the next thing.
+
+The goal isn't to make Susan faster. The goal is to **free Susan entirely** — so that nothing falls apart when she's not looking, and she can focus on what matters most.
 
 ## The Solution
 
-An AI-powered intelligence layer built entirely on Growth Signal's existing Notion workspaces, internal documentation, and operational data — where business rules are codified, quality standards are enforced automatically, and institutional knowledge becomes searchable, teachable, and scalable.
+An intelligence layer that belongs to the company — not to any one person. Built entirely on Growth Signal's existing Notion workspaces, internal documentation, and operational data.
+
+The business rules live in the system. The quality standards live in the system. The knowledge lives in the system. It doesn't depend on Susan. It doesn't depend on Nani. It doesn't depend on anyone.
 
 > **All data comes from Force of Nature's Notion workspaces and Growth Signal's internal systems.** Client reports, strategy documents, QA frameworks, operational playbooks, and product data — structured, indexed, and made queryable.
+
+The goal is a system that runs whether we're in the room or not.
 
 ---
 
 ## What You'll Build
 
+You teach the system your rules. You define the standards. You decide what gets automated and what stays manual. Everything the system does, it does because you designed it that way.
+
 By the end of 8 weeks:
 
-- **Your business rules run automatically.** The competitor algorithm, the ECG validation, the QA standards — codified once, enforced every time.
-- **You can query 48 clients in seconds.** "What worked for footwear brands?" "Which clients have the same ECG pattern?" Answers with sources, not decks.
-- **Your team operates at your standard — without you in the room.** Quality standards, decision frameworks, and review criteria built into the system.
-- **You design AI workflows independently.** Not dependent on anyone. You see a process, you build the workflow, it runs.
+- **Your business rules are codified — by you.** The competitor algorithm, the ECG validation, the QA standards. You define them once. The system applies them consistently, the way you would.
+- **Your quality standards are in the system — because you put them there.** Your team can follow them without guessing. New hires can learn them without shadowing you for months.
+- **You can query 48 clients in seconds.** "What worked for footwear brands?" "Which clients have the same ECG pattern?" Answers with sources, whenever you need them.
+- **You design new AI workflows on your own.** You see a repetitive process, you build the automation, you decide when to deploy it.
+
+**What changes:** The repetitive work — the reviewing, the checking, the "did anyone follow the rules?" — that runs on its own. The system doesn't need us. Our time goes back to building what's next.
 
 ---
 
