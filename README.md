@@ -1,81 +1,55 @@
-# AI School — Growth Signal Intelligence Program
-### Prepared by Nani for Susan Coelius Keplinger
-### Force of Nature × Growth Signal | February 2026
+# Susan — here's what I built for Tuesday.
 
 ---
 
-## What Is This
+I audited the competitor pipeline. I found that OOFOS has zero competitors in the system — the algorithm never ran for them. I also found that Ember's list includes Amazon and Best Buy, which shouldn't be there based on the rules you described on Feb 6.
 
-This is your personal workspace for AI School — an 8-week hands-on program where you'll learn to use AI as a strategic tool while simultaneously improving Growth Signal's product.
+I built a knowledge base from 48 FON clients — 12,561 documents, searchable by client, channel, and industry. You can ask it "what are the quick wins for Marine Layer?" and get an answer with sources in 5 seconds.
 
-**This is not a course. It's a co-building environment.**
+I put together an 8-week program. Not a course — a co-building environment where every session produces real output that goes directly into Growth Signal.
 
-Every session produces real output: better data, codified business rules, validated algorithms, and documented decisions that go directly into the product.
-
----
-
-## What's Inside
-
-```
-ai-school/
-│
-├── README.md                ← You are here
-│
-├── program/                 ← The 8-week roadmap + session structure
-│   └── AI_LEARNING_PROGRAM.md
-│
-├── starter-kit/             ← Prompts you can use RIGHT NOW
-│   └── PROMPT_LIBRARY.md       Copy-paste prompts for briefs, QA, data analysis
-│
-├── data/                    ← Real client data we'll work with
-│   ├── oofos_ucr_summary.json       OOFOS UCR (our first case study)
-│   ├── oofos_ecg.md                 Economic Center of Gravity definition
-│   └── ecg-validations/             FitBod & Halo Collar — AI-powered QA reports
-│
-├── competitor-audit/        ← What we found auditing the competitor pipeline
-│   └── COMPETITOR_PIPELINE_FINDINGS.md
-│
-├── session-notes/           ← Notes from each session (starts empty)
-│   └── SESSION_01_NOTES.md     Will be created during our first session
-│
-└── vision/                  ← Where this is all going
-    └── BRAIN_INTERFACE_IDEAS.md   20 ideas for what's possible with your data
-```
+This folder is everything you need for Session 1.
 
 ---
 
-## Before Session 1 (Tuesday Feb 11)
+## What's here
 
-**You don't need to do anything.** But if you want to get a head start:
+**Start with these two:**
+- `program/AI_LEARNING_PROGRAM.md` — the 8-week roadmap (5 min read)
+- `starter-kit/PROMPT_LIBRARY.md` — 14 prompts you can copy-paste right now into Claude or ChatGPT
 
-1. **Skim** `program/AI_LEARNING_PROGRAM.md` — the 8-week roadmap (5 min read)
-2. **Browse** `starter-kit/PROMPT_LIBRARY.md` — try one prompt if you're curious
-3. **Glance at** `vision/BRAIN_INTERFACE_IDEAS.md` — where this is all going
-4. **Think about** a brief or task you'd normally write by hand — bring it Tuesday
+**The work I've already done:**
+- `competitor-audit/` — what I found auditing the pipeline across all 37 client configs
+- `data/oofos_ucr_summary.json` — the OOFOS UCR we'll interrogate together on Tuesday
+- `data/oofos_ecg.md` — their Economic Center of Gravity, explained simply
+- `data/ecg-validations/` — FitBod and Halo Collar QA reports (one of them says "NOT CMO-SAFE" — you'll see why)
 
----
-
-## What You'll Be Able to Do After 8 Weeks
-
-- Turn a verbal brief into a structured Notion document in 60 seconds
-- Interrogate any UCR and find data quality issues instantly
-- Codify business rules so the AI can apply them consistently
-- QA any Growth Signal report before it goes to a client
-- Query the entire FON knowledge base (12,500+ documents, 48 clients) by asking questions in plain English
-- Design AI-assisted workflows for your team
+**Where this is going:**
+- `vision/BRAIN_INTERFACE_IDEAS.md` — 20 ideas for what becomes possible when you treat your 6,354 ChatGPT conversations as a queryable intelligence system. Some of them are already built.
 
 ---
 
-## Technical Details (for reference)
+## Tuesday, Feb 11 — Session 1
 
-| Tool | What It Does | When We Use It |
-|------|-------------|----------------|
-| **Windsurf** | AI coding assistant with file access | Sessions — reads data, writes docs |
-| **Notion MCP** | Connects AI directly to Notion | Sessions — creates pages automatically |
-| **Growth Signal App** | The product we're improving | Sessions — live data, real clients |
-| **FON Knowledge Base** | 12,561 documents from 48 FON clients | Sessions — ask anything about any client |
+We're going to do three things:
+
+1. **You describe a brief out loud. AI writes it. It appears in Notion.** (~10 min)
+2. **We interrogate the OOFOS data together.** I'll show you how to ask questions the data can't hide from. (~25 min)
+3. **You tell me the rules your team applies when reviewing competitors. We codify them.** From now on, the AI enforces them. (~15 min)
+
+You don't need to prepare anything. But if you want to bring a brief or task you'd normally write by hand — that would make Act 1 even better.
 
 ---
 
-*Prepared with care. Let's build something great together.*
-*— Nani, Feb 2026*
+## The bigger picture
+
+You said you wanted to learn AI by doing real work, not by watching demos.
+
+That's exactly what this is. Every rule you codify, every quality standard you define, every workflow you design — it goes into the product. By week 8, you won't just understand AI. You'll have built the intelligence layer of Growth Signal.
+
+The details are in `program/AI_LEARNING_PROGRAM.md`. The tools are in `starter-kit/`. The data is real. The session notes folder is empty — we'll fill it together.
+
+---
+
+*See you Tuesday.*
+*— Nani*
