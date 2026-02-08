@@ -1,12 +1,14 @@
 # Growth Signal Intelligence Program
 
-**8 weeks. 8 Tuesdays. You replace ChatGPT with an AI that actually knows your business.**
+**8 weeks. 8 Tuesdays. You build it. I guide you.**
 
 Force of Nature × Growth Signal | February 2026
 
 ```
 ChatGPT + manual work  →  you teach it your rules  →  the team starts using it  →  it runs on its own
 ```
+
+You replace ChatGPT with an AI that actually knows your business. I don't build it for you — I guide you to build it yourself. We work as a team: I bring the technical knowledge, you bring the business knowledge. By week 8, you don't need me anymore.
 
 > **Everything the system learns comes from your Notion workspaces and internal documents.** Not the internet. Not personal chats. Not generic training data. Your data. Your rules. Your business.
 
@@ -35,6 +37,8 @@ The goal isn't to make you faster. The goal is to build something better than Ch
 ## The solution
 
 You take what you know and teach it to a system the company owns. Not a document. Not a wiki nobody reads. An intelligence layer that applies your rules automatically, answers questions across 48 clients in seconds, and replaces ChatGPT with something that actually knows your business.
+
+I don't do this for you. I teach you how to do it. Every rule you codify, you codify. Every workflow you build, you build. I'm the senior showing you the tools and the patterns — you're the one making the decisions and doing the work.
 
 ```
 after 8 tuesdays:
@@ -70,20 +74,36 @@ None of this is anyone's fault. Every company works this way until someone build
 
 ---
 
+## How we work together
+
+```
+roles:
+    you    → the business expert, the decision maker, the builder
+    me     → the technical guide, the senior, the one who shows you how
+
+rule:
+    I never build it for you
+    I show you how, you do it
+    every decision is yours
+    by week 8, you do it without me
+```
+
+---
+
 ## The program — 8 Tuesdays
 
-Every Tuesday. 60 minutes. You build it yourself.
+Every Tuesday. 60 minutes. You build it yourself. I guide you through it.
 
 ```
 every session:
-    build     → you teach the system something new, using your data
-    test      → you run it against live data, see the results
-    approve   → you review the output, you decide what stays
+    build     → you teach the system something new, I show you how
+    test      → you run it against live data, we review the results together
+    approve   → you decide what stays, I don't decide for you
     advance   → approved knowledge goes into the system
 
     if something feels wrong:
         we stop
-        we fix it
+        we fix it together
         we test again
         you decide
 
@@ -144,7 +164,7 @@ you:
     stop being the bottleneck  → start being the architect
 ```
 
-After week 8, the system is yours. We stay available for support, but you won't need a recipe anymore — you'll be writing your own.
+After week 8, the system is yours. You won't need a recipe anymore — you'll be writing your own. I stay available for support, but the goal is that you don't need me. That's how you know it worked.
 
 ---
 
