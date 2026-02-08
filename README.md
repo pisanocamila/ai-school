@@ -2,7 +2,7 @@
 
 **8 weeks. 8 Tuesdays. You build it. I guide you.**
 
-Force of Nature × Growth Signal | February 2026
+Force of Nature × Growth Signal | February – April 2026
 
 ```
 ChatGPT + manual work  →  you teach it your rules  →  the team starts using it  →  it runs on its own
@@ -121,7 +121,7 @@ The recipe gets shorter as you go:
 | **5** | You build your first AI workflow from scratch | Ingredients only |
 | **6** | The team starts using the system without you | Ingredients only |
 | **7** | You generate a strategic brief with AI — for a real client | You decide |
-| **8** | ChatGPT is replaced. The playbook is yours. | You decide |
+| **8** | ChatGPT is replaced. The playbook is yours. In person. | You decide |
 
 ---
 
@@ -164,7 +164,9 @@ you:
     stop being the bottleneck  → start being the architect
 ```
 
-After week 8, the system is yours. You won't need a recipe anymore — you'll be writing your own. I stay available for support, but the goal is that you don't need me. That's how you know it worked.
+Week 8 is mid-April. We meet in Poland. In person. The final session — the one where we review everything you built, where the playbook is complete, where ChatGPT is replaced — we do it together, face to face.
+
+After that, the system is yours. You won't need a recipe anymore — you'll be writing your own. I stay available for support, but the goal is that you don't need me. That's how you know it worked.
 
 ---
 
